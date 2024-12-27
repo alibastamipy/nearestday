@@ -1,0 +1,10 @@
+tseopt
+streamlit
+IPython
+pandas
+duckdb
+numpy
+datetime
+openpyxl
+datetime
+khayyam
